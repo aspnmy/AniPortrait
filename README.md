@@ -1,3 +1,7 @@
+# 补充说明
+更新docker版本，基于此开源组件。
+```docker pull register.t2be.cn/podadmin/aniportrait:docker```
+
 # AniPortrait
 
 **AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animations**
